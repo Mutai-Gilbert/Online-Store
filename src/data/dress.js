@@ -1,0 +1,88 @@
+import {u4 as uuidv4}  from 'uuid';
+
+const data = [
+    {
+        id: uuidv4(),
+        image: './images/dress/dress-1.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },
+    {
+        id: uuidv4(),
+        image: './images/dress/dress-2.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-3.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-4.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-5.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-6.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-7.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-8.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-9.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },    {
+        id: uuidv4(),
+        image: './images/dress/dress-10.jpg',
+        title: 'Dress',
+        desc: 'A beautiful dress',
+        category: 'Official and Casual Wear',
+        type: 'Full Body',
+        price: 50,
+    },
+]
+
+export default data
