@@ -1,14 +1,13 @@
 import React from 'react'
-import {Link } from 'react-router-dom'
+import {NavLink } from 'react-router-dom'
 
 const Header = () => {
     return (
         <>
-            <nav>
-                <ul>
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/products">Featured Products</Link></li>
-                    <li><Link to="/heels">Heels</Link></li>
+            <nav className='bg-green-600 py-4 text-white'>
+                <ul className='flex justify-center'>
+                    <li className='mx-5 tracking-widest uppercase font-bold'><NavLink to="/" className='transition-colors hover:text-green-900'>Home</NavLink></li>
+                    <li className='mx-5 tracking-widest uppercase font-bold'><NavLink to="/heels" className='transition-colors hover:text-green-900'>Heels</NavLink></li>
                 </ul>
             </nav>
         </>
