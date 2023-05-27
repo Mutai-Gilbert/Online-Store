@@ -1,15 +1,14 @@
-import React from 'react';
-import data from  '../../data/products';
+import React from 'react'
+import data from  '../../data/shoes';
 import { BsHeart } from 'react-icons/bs';
 
-
-const Products = () => {
+const Shoes = () => {
         // eslint-disable-next-line
     const [items, setItems] = React.useState(data);
     console.log(items)
   return (
     <>
-    <h1 className='pt-10 text-center font-bold text-4xl'> Featured Products</h1>
+    <h1 className='pt-10 text-center font-bold text-4xl'> Shoes</h1>
      <section className='p-5 grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4'>
         {items.map((item) => {
             const {id, image, title, desc, category, type, price} = item
@@ -40,4 +39,4 @@ const Products = () => {
   )
 }
 
-export default Products
+export default Shoes
