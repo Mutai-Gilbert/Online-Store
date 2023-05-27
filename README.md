@@ -1,33 +1,67 @@
 # Online Store README
-Introduction
-This is a README file for an online store. It provides instructions on how to install and use the store, as well as information about the store's features.
+
+> A online store using React.
 
 
-Installation
-To install the store, follow these steps:
+## Built With
 
-Clone the repository to your local machine.
-Install the dependencies.
-Create a database and configure the store.
-Start the store.
-Usage
-To use the store, follow these steps:
+- Major languages
+- Frameworks
+- Technologies used
 
-Open a web browser and navigate to the store's URL.
-Sign in or create an account.
-Browse the store's products.
-Add products to your cart.
-Checkout and pay for your order.
-Features
-The store includes the following features:
+## Live Demo (if available)
 
-Product management: The store allows you to manage your products, including adding, editing, and deleting products.
-Order management: The store allows you to manage your orders, including viewing order history and tracking orders.
-Customer management: The store allows you to manage your customers, including viewing customer profiles and sending customer emails.
-Shipping: The store supports shipping to multiple countries.
-Payment: The store supports multiple payment methods, including credit cards, PayPal, and wire transfer.
-Support
-If you need help with the store, please visit the store's support website.
+[Live Demo Link](https://onlinetrends.netlify.app)
 
-License
-The store is licensed under the MIT(./LICENCE) License.
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+👤 **Author1**
+
+👤 **Gilbert Mutai**
+
+- GitHub: [@githubhandle](https://github.com/Mutai-Gilbert)
+- Twitter: [@twitterhandle](https://twitter.com/@nerdmutai)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mutai-gilbert-2a5a42137/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
